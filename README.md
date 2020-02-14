@@ -37,7 +37,7 @@ Projects will be sperated documented in the [Projects](Projects/) directory.
 
 ### Done
 
-We didn't even started 😅
+We didn't even start 😅
 
 ### Denied
 
