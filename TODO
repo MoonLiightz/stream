@@ -1,0 +1,11 @@
+This Repository:
+    ☐ Add Hackintosh hardware to README.md @created(20-02-15 00:26)
+
+Stream:
+    ☐ Setup OBS @created(20-02-15 00:19)
+        ☐ Add scenes for countdown, lobby (fullscreenish cam), desktop, end @created(20-02-15 00:19)
+        ☐ Add alerts (maybe the same as in the gaming streams) @created(20-02-15 00:21)
+        ☐ Add chat to lobby and desktop scene @created(20-02-15 00:20)
+    ☐ Add new commands to the Twitch bot @created(20-02-15 00:22)
+        Maybe write a new one especially for this kind of streams. Maybe new project for a stream?
+        Commands could be !vscode, !extensions (vscode related), !today, !repo(sitory), !hackintosh, !mac(os), !job
