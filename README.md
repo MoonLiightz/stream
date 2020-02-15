@@ -10,7 +10,7 @@ I think I have to define what "the stream" means. Over the past 4 1/2 years I've
 
 Most of the streams will be made with my [hackintosh](#hackintosh)
 
-## Links
+## Social links
 
 -   [Twitch](https://www.twitch.tv/curi0sDE)
 -   [Twitter](https://www.twitter.com/curi0sDE)
@@ -23,7 +23,19 @@ There is a [TODO file](TODO) in this repository that _should_ contain all todos 
 
 ## Hackintosh
 
-[Todo 🙃](TODO#L2)
+-   **Gehäuse:** be quiet! PURE BASE 500
+-   **Board:** GIGABYTE Z390 GAMING X
+-   **CPU:** Intel i5-9600KF
+-   **Kühler:** be quiet! Pure Rock
+-   **Ram:** Corsair DIMM 16GB DDR4-2666 Kit
+-   **PSU:** be quiet! Pure Power 11 500W CM
+-   **Graka:** ASRock Radeon RX580 Phantom Gaming
+-   **M2:** Samsung 970 EVO 500 GB
+
+*   **Keyboard:** Logitech MX Keys
+*   **Mouse:** Microsoft Classic Intellimouse
+*   **Cam:** Logitech C920
+*   **Monitor:** HP Z38c (3840x1600)
 
 ## Projects
 
