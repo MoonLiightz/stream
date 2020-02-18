@@ -1,16 +1,16 @@
 # Stream repository
 
-I've decided to document anything regarding [the stream](#the-stream) in english. On the one hand to improve my english skills overall and on the other hand to allow non german speaking people to unterstand what am I doing on stream and on this repository. [The stream](#the-stream) will for the time being not be in englisch (sorry mates).
+I've decided to document anything regarding [the stream](#the-stream) in english. On the one hand to improve my english skills overall and on the other hand to allow non german speaking people to unterstand what am I doing on stream and on this repository. [The stream](#the-stream) will for the time being not be in englisch (sorry guys).
 
-Feel free to "pull request" changes if for typos, my bad english skills, ideas (**PLEASE DO THAT 😁**) or other things like suggestions for the stream or this repo.
+Feel free to "pull request" changes if for typos, my bad english skills, ideas (**PLEASE DO THAT 😁**) or other things like suggestions for the stream or this repo. Feel free to add yourself to the [contributors list](#-contributors).
 
 ## "The stream"
 
 I think I have to define what "the stream" means. Over the past 4 1/2 years I've mostly been streaming Rocket League (and will continue to stream it in the future too) **but** this repository and the [todos](#todos) will only for tech like streams, not for gaming streams.
 
-Most of the streams will be made with my [hackintosh](#hackintosh)
+Most of the streams will be made with my [hackintosh](#-hackintosh)
 
-## Social links
+## 🔗 Social links
 
 -   [Twitch](https://www.twitch.tv/curi0sDE)
 -   [Twitter](https://www.twitter.com/curi0sDE)
@@ -21,7 +21,48 @@ Most of the streams will be made with my [hackintosh](#hackintosh)
 
 There is a [TODO file](TODO) in this repository that _should_ contain all todos for this repo and the streams
 
-## Hackintosh
+## 📽️ Stream recaps
+
+As an additional "feature" of this repository and the streams I will (hopefully) write a recap for every stream. You should find them all in the folder [stream recaps](stream recaps/) named by the date (format: YYYY-MM-DD) the streams were done.
+
+I _try_ to cover the following list of topics in each recap.
+
+1. What were the topics of the stream? (Short: Topics)
+2. Unexpected or problematic things that happend during the stream (Short: Unexpected/Problematic things)
+3. What did I/we learn? (Short: Lessons learned)
+4. Things that are not covered by the other topics (Short: Other stuff)
+
+### Direct links
+
+-   [Stream #001 (2020-02-15) - Twitch bot](stream recaps/2020-02-15/README.md)
+
+## 🚧 Projects
+
+This is a list of done, potential or "denied" projects (ideas).
+
+Projects will be separately documented in the [Projects](projects/) directory.
+
+### Potential
+
+-   Build a new Discord bot
+-   curiMans
+    -   A six mans like bot specifically for my Discord server
+-   Twitch plays Rocket League (1v1)
+    -   Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
+
+### Done
+
+-   Build a new Twitch bot especially for the tech streams
+
+### Denied
+
+Nothing here so far 🤗
+
+## ❤️ Contributors
+
+-   Richy
+
+## 🖥️ Hackintosh
 
 -   **Gehäuse:** be quiet! PURE BASE 500
 -   **Board:** GIGABYTE Z390 GAMING X
@@ -36,25 +77,3 @@ There is a [TODO file](TODO) in this repository that _should_ contain all todos 
 *   **Mouse:** Microsoft Classic Intellimouse
 *   **Cam:** Logitech C920
 *   **Monitor:** HP Z38c (3840x1600)
-
-## Projects
-
-This is a list of done, potential or "denied" projects (ideas).
-
-Projects will be separately documented in the [Projects](projects/) directory.
-
-### Potential
-
--   Build a new Twitch bot especially for the tech streams
-    -   For specific commands or functions like light controls (just an idea)
--   Build a new Discord bot
--   curiMans
-    -   A six mans like bot specifically for my Discord server
-
-### Done
-
-We didn't even start 😅
-
-### Denied
-
-Nothing here so far 🤗

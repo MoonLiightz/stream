@@ -1,13 +1,20 @@
 This Repository:
     ✔ Add Hackintosh hardware to README.md @created(20-02-15 00:26) @done(20-02-15 18:56)
         Add also monitor, keyboard and mouse
+    ☐ Add section in README.md for informations that normally are provided by the chat bot @created(20-02-17 22:04)
+    ✔ Add webhook to #tech-streams Discord channel for GitHub repo updates @created(20-02-17 22:05) @done(20-02-18 16:16)
 
 Stream:
     ✔ Setup OBS @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add scenes for countdown, lobby (fullscreenish cam), desktop, end @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add alerts (maybe the same as in the gaming streams) @created(20-02-15 00:21) @done(20-02-15 11:09)
         ✔ Add chat to lobby and desktop scene @created(20-02-15 00:20) @done(20-02-15 11:09)
+    ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
+    ☐ Have a look at (maybe) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
+        
+Twitch Bot:
+    ☐ Add alias for command !repository: !repositories @created(20-02-17 20:33)
+    ☐ Add command !font => https://github.com/tonsky/FiraCode @created(20-02-17 22:00)
     ✔ Add new commands to the Twitch bot @created(20-02-15 00:22) @done(20-02-15 14:56)
         Maybe write a new one especially for this kind of streams. Maybe new project for a stream?
         Commands could be !vscode, !extensions (vscode related), !today, !repo(sitory), !hackintosh, !mac(os), !job, !theme
-    ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
