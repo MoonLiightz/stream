@@ -1,6 +1,6 @@
 # Stream repository
 
-I've decided to document anything regarding [the stream](#the-stream) in english. Firstly to improve my english skills overall and secondly to allow non german speaking people to unterstand what am I doing on stream and on this repository. [The stream](#the-stream) will for the time being not be in englisch (sorry guys).
+I've decided to document anything regarding [the stream](#the-stream) in english. Firstly to improve my english skills overall and secondly to allow non german speaking people to unterstand what am I doing on stream and on this repository. [The stream](#the-stream) will for the time being not be in english (sorry guys).
 
 Feel free to "pull request" changes if for typos, my bad english skills, ideas (**PLEASE DO THAT 😁**) or other things like suggestions for the stream or this repo. Feel free to add yourself to the [contributors list](#%EF%B8%8F-contributors).
 
@@ -52,7 +52,7 @@ Projects will be separately documented in the [Projects](projects/) directory.
 
 ### Done
 
-- Build a new Twitch bot especially for the tech streams
+- Build a new Twitch bot especially for the tech streams ([Repository](https://github.com/curi0s/twitch-bot))
 
 ### Denied
 
@@ -71,7 +71,8 @@ Nothing here so far 🤗
 - **Ram:** Corsair DIMM 16GB DDR4-2666 Kit
 - **PSU:** be quiet! Pure Power 11 500W CM
 - **GPU:** ASRock Radeon RX580 Phantom Gaming
-- **M2:** Samsung 970 EVO 500 GB
+- **M2:** Samsung 970 EVO 500 GB (for Mac OS)
+- **SSD:** Intenso SSD 256GB (for Windows)
 
 * **Keyboard:** Logitech MX Keys
 * **Mouse:** Microsoft Classic Intellimouse
