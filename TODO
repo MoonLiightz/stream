@@ -10,11 +10,12 @@ Stream:
         ✔ Add alerts (maybe the same as in the gaming streams) @created(20-02-15 00:21) @done(20-02-15 11:09)
         ✔ Add chat to lobby and desktop scene @created(20-02-15 00:20) @done(20-02-15 11:09)
     ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
-    ☐ Have a look at (maybe) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
+    ☐ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
         
 Twitch Bot:
     ☐ Add alias for command !repository: !repositories @created(20-02-17 20:33)
     ☐ Add command !font => https://github.com/tonsky/FiraCode @created(20-02-17 22:00)
+    ☐ Fix links to anchors with emojis @created(20-02-18 20:06)
     ✔ Add new commands to the Twitch bot @created(20-02-15 00:22) @done(20-02-15 14:56)
         Maybe write a new one especially for this kind of streams. Maybe new project for a stream?
         Commands could be !vscode, !extensions (vscode related), !today, !repo(sitory), !hackintosh, !mac(os), !job, !theme
