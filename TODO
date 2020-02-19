@@ -1,16 +1,16 @@
 This Repository:
+    ☐ Add section in README.md for informations that normally are provided by the chat bot @created(20-02-17 22:04)
     ✔ Add Hackintosh hardware to README.md @created(20-02-15 00:26) @done(20-02-15 18:56)
         Add also monitor, keyboard and mouse
-    ☐ Add section in README.md for informations that normally are provided by the chat bot @created(20-02-17 22:04)
     ✔ Add webhook to #tech-streams Discord channel for GitHub repo updates @created(20-02-17 22:05) @done(20-02-18 16:16)
 
 Stream:
+    ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
+    ☐ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
     ✔ Setup OBS @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add scenes for countdown, lobby (fullscreenish cam), desktop, end @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add alerts (maybe the same as in the gaming streams) @created(20-02-15 00:21) @done(20-02-15 11:09)
         ✔ Add chat to lobby and desktop scene @created(20-02-15 00:20) @done(20-02-15 11:09)
-    ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
-    ☐ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
         
 Twitch Bot:
     ☐ Add alias for command !repository: !repositories @created(20-02-17 20:33)

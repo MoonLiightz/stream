@@ -49,6 +49,8 @@ Projects will be separately documented in the [Projects](projects/) directory.
   - A six mans like bot specifically for my Discord server
 - Twitch plays Rocket League (1v1)
   - Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
+- Evaluate ways to run bots e.g. Discord or Twitch in a high available setup
+  - The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
 
 ### Done
 
