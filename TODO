@@ -13,6 +13,7 @@ Stream:
         ✔ Add chat to lobby and desktop scene @created(20-02-15 00:20) @done(20-02-15 11:09)
         
 Twitch Bot:
+    ☐ Review if links in commands are still working after changing some headlines @created(20-02-20 15:45)
     ☐ Add alias for command !repository: !repositories @created(20-02-17 20:33)
     ☐ Add command !font => https://github.com/tonsky/FiraCode @created(20-02-17 22:00)
     ☐ Fix links to anchors with emojis @created(20-02-18 20:06)
