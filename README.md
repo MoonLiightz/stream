@@ -19,7 +19,7 @@ Most of the streams will be made with my [hackintosh](#computer-hackintosh)
 
 ## Todos
 
-There is a [TODO file](TODO) in this repository that _should_ contain all todos for this repo and the streams
+There is a [TODO file](TODO) in this repository that _should_ contain all todos for this repo and the streams.
 
 ## :movie_camera: Stream recaps
 
@@ -40,16 +40,16 @@ I _try_ to cover the following list of topics in each recap.
 
 They are seperated in different categories. Each category has it's description why projects are listed there.
 
-> Projects will be separately documented in the [Projects](projects/) directory.
+Projects will be separately documented in the [Projects](projects/) directory.
 
 ### Potential
 
-- Build a new Discord bot
-- curiMans
+- **Build a new Discord bot**
+- **curiMans**
   - A six mans like bot specifically for my Discord server
-- Twitch plays Rocket League (1v1)
+- **Twitch plays Rocket League (1v1)**
   - Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
-- Evaluate ways to run bots e.g. Discord or Twitch in a high available setup
+- **Evaluate ways to run bots e.g. Discord or Twitch in a high available setup**
   - The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
 
 ### In progress
