@@ -21,9 +21,11 @@ Most of the streams will be made with my [hackintosh](#computer-hackintosh)
 
 There is a [TODO file](TODO) in this repository that _should_ contain all todos for this repo and the streams.
 
+The extension I use for this Todo list ist [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
+
 ## :movie_camera: Stream recaps
 
-As an additional "feature" of this repository and the streams I will (hopefully) write a recap for every stream. You should find them all in the folder [stream recaps](stream%20recaps/) named by the date (format: YYYY-MM-DD) the streams were done.
+As an additional "feature" of this repository and the streams, I will (hopefully) write a recap for every stream. You should find them all in the folder [stream recaps](stream%20recaps/) named by the date (format: YYYY-MM-DD) the streams were done.
 
 I _try_ to cover the following list of topics in each recap.
 
@@ -35,32 +37,37 @@ I _try_ to cover the following list of topics in each recap.
 ### Direct links
 
 - [Stream #001 (2020-02-15) - Twitch bot](stream%20recaps/2020-02-15/README.md)
+- Stream #002 (2020-02-21) - Running bots in a high availability setup\
+  _Recap coming soon_
 
 ## :construction: Projects
 
 They are seperated in different categories. Each category has it's description why projects are listed there.
 
-Projects will be separately documented in the [Projects](projects/) directory.
+Projects will be separately documented in the [Projects](projects/) directory if they are not already covert by any [stream recap](#movie_camera-stream-recaps).
 
 ### Potential
 
-- **Build a new Discord bot**
-- **curiMans**
-  - A six mans like bot specifically for my Discord server
-- **Twitch plays Rocket League (1v1)**
-  - Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
-- **Evaluate ways to run bots e.g. Discord or Twitch in a high available setup**
-  - The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
+- Discord related
+  - **Build a new Discord bot** (curi0sDE_BOT)
+  - **curiMans**\
+    A six mans like bot specifically for my Discord server
+- Twitch related
+  - **Twitch plays Rocket League (1v1)**\
+    Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
+- **Learning Go** (God damn @muesli :unamused:)
 
 ### In progress
 
-Projects will be in this category if we started to work on them (again).
+Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finished it in one stream, adding new features or want make bigger changes to it.
 
 ### Done
 
 Projects are done if the initial planned features are implemented. A project may or may not move to [in progress](#in-progress) if bigger changes (more than a couple todos) have to be made.
 
-- Build a new Twitch bot especially for the tech streams ([Repository](https://github.com/curi0s/twitch-bot))
+- **Build a new Twitch bot especially for the tech streams** ([Repository](https://github.com/curi0s/twitch-bot))
+- **Evaluate ways to run bots e.g. Discord or Twitch in a high availability setup**
+  - The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
 
 ### Denied
 

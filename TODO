@@ -10,12 +10,15 @@ Stream:
             * Either search for another tool thats like Chatty
             * JRE/JDK as portable version to execute just Chatty
     ☐ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
+        Found something in the system log which points to browser sources.
+        I really think this could be the problem but we had not freeze or crash in the stream of 2020-02-21 while not using the tv as an additional monitor
     ✔ Setup OBS @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add scenes for countdown, lobby (fullscreenish cam), desktop, end @created(20-02-15 00:19) @done(20-02-15 14:56)
         ✔ Add alerts (maybe the same as in the gaming streams) @created(20-02-15 00:21) @done(20-02-15 11:09)
         ✔ Add chat to lobby and desktop scene @created(20-02-15 00:20) @done(20-02-15 11:09)
         
 Twitch Bot:
+    ☐ Add command !todo and !todos with a message to the Todo+ extension for vscode @created(20-02-22 11:22)
     ✔ Review if links in commands are still working after changing some headlines @created(20-02-20 15:45) @done(20-02-21 22:05)
     ✔ Add alias for command !repository: !repositories @created(20-02-17 20:33) @done(20-02-21 22:02)
     ✔ Add command !font => https://github.com/tonsky/FiraCode @created(20-02-17 22:00) @done(20-02-21 22:05)
