@@ -68,6 +68,16 @@ Projects in this category have been denied due to different reasons.
 
 Nothing here so far 🤗
 
+## Bot commands
+
+These are some informations the bot would usually provides in the chat.
+
+| command   | respond                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| !extensions | Remote Containers, Settings Sync, TODO Highlight, GitLens, markdownlint, Prettier, YAML, Todo+, Todo Tree, TODO Highlight |
+| !theme  | [JetJet-Alternate-Gray](https://marketplace.visualstudio.com/items?itemName=JohnyGeorges.jetjet-theme)        |
+| !font   | [Fira Code V2](https://github.com/tonsky/FiraCode)                        |
+
 ## :heart: Contributors
 
 - Richy
