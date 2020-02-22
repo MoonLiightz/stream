@@ -1,8 +1,8 @@
 # Stream repository
 
-I've decided to document anything regarding [the stream](#the-stream) in english. Firstly to improve my english skills overall and secondly to allow non german speaking people to unterstand what am I doing on stream and on this repository. [The stream](#the-stream) will for the time being not be in english (sorry guys).
+I've decided to document anything regarding [the stream](#the-stream) in english. Firstly to improve my english skills overall and secondly to allow non german speaking people to unterstand what am I doing on stream and in this repository. [The stream](#the-stream) will for the time being not be in english (sorry guys).
 
-Feel free to "pull request" changes if for typos, my bad english skills, ideas (**PLEASE DO THAT :smiley:**) or other things like suggestions for the stream or this repo. Feel free to add yourself to the [contributors list](#heart-contributors).
+Feel free to "pull request" changes, if for typos, my bad english skills, ideas (**PLEASE DO THAT :smiley:**) or other things like suggestions for the stream or this repo. Feel free to add yourself to the [contributors list](#heart-contributors).
 
 ## "The stream"
 
@@ -21,7 +21,7 @@ Most of the streams will be made with my [hackintosh](#computer-hackintosh)
 
 There is a [TODO file](TODO) in this repository that _should_ contain all todos for this repo and the streams.
 
-The extension I use for this Todo list ist [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
+The extension I use for this Todo list is [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
 
 ## :movie_camera: Stream recaps
 
@@ -59,7 +59,7 @@ Projects will be separately documented in the [Projects](projects/) directory if
 
 ### In progress
 
-Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finished it in one stream, adding new features or want make bigger changes to it.
+Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
 
 ### Done
 
@@ -77,7 +77,7 @@ Nothing here so far 🤗
 
 ## Bot commands
 
-These are some informations the bot would usually provides in the chat.
+These are some informations the bot would usually provide in the chat.
 
 | command   | respond                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -88,6 +88,7 @@ These are some informations the bot would usually provides in the chat.
 ## :heart: Contributors
 
 - Richy
+- Tom
 
 ## :computer: Hackintosh
 
