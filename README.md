@@ -88,7 +88,7 @@ These are some informations the bot would usually provide in the chat.
 ## :heart: Contributors
 
 - Richy
-- Tom
+- [Tom](https://github.com/tryzerman)
 
 ## :computer: Hackintosh
 
