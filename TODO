@@ -5,6 +5,12 @@ This Repository:
     ✔ Add webhook to #tech-streams Discord channel for GitHub repo updates @created(20-02-17 22:05) @done(20-02-18 16:16)
 
 Stream:
+    ☐ Write a list of pre- and post task for every stream @created(20-02-24 21:28)
+        * Pre
+            * Title
+            * Today command
+        * Post
+            * Write recap
     ☐ Setup Chatty (https://chatty.github.io/) @created(20-02-15 11:48)
         Chatty does not provide a package with a bundle JRE/JDK
             * Either search for another tool thats like Chatty

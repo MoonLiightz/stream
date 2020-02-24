@@ -37,8 +37,9 @@ I _try_ to cover the following list of topics in each recap.
 ### Direct links
 
 - [Stream #001 (2020-02-15) - Twitch bot](stream%20recaps/2020-02-15/README.md)
-- Stream #002 (2020-02-21) - Running bots in a high availability setup\
-  _Recap coming soon_
+- [Stream #002 (2020-02-21) - Running bots in a high availability setup](stream%20recaps/2020-02-21/README.md)
+- Stream #003 (2020-02-24) - Learning Go #1\
+  Will be a short one
 
 ## :construction: Projects
 
@@ -55,19 +56,20 @@ Projects will be separately documented in the [Projects](projects/) directory if
 - Twitch related
   - **Twitch plays Rocket League (1v1)**\
     Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
-- **Learning Go** (God damn @muesli :unamused:)
 
 ### In progress
 
 Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
+
+- **Learning Go** (God damn @muesli :unamused:)
 
 ### Done
 
 Projects are done if the initial planned features are implemented. A project may or may not move to [in progress](#in-progress) if bigger changes (more than a couple todos) have to be made.
 
 - **Build a new Twitch bot especially for the tech streams** ([Repository](https://github.com/curi0s/twitch-bot))
-- **Evaluate ways to run bots e.g. Discord or Twitch in a high availability setup**
-  - The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
+- **Evaluate ways to run bots e.g. Discord or Twitch in a high availability setup**\
+  The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
 
 ### Denied
 
