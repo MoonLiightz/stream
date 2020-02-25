@@ -61,7 +61,7 @@ Projects will be separately documented in the [Projects](projects/) directory if
 
 Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
 
-- **Learning Go** (God damn @muesli :unamused:)
+- **Learning Go** (God damn [@muesli](https://github.com/muesli) :unamused:)
 
 ### Done
 
