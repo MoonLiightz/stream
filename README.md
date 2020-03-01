@@ -39,6 +39,8 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #001 (2020-02-15) - Twitch bot](stream%20recaps/2020-02-15/README.md)
 - [Stream #002 (2020-02-21) - Running bots in a high availability setup](stream%20recaps/2020-02-21/README.md)
 - [Stream #003 (2020-02-24) - Learning Go #1](stream%20recaps/2020-02-24/README.md)
+- Stream #004 (2020-03-01) - Learning Go #2\
+  *Comming soon - will be a short one*
 
 ## :construction: Projects
 
