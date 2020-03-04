@@ -2,11 +2,11 @@
 
 I've decided to document anything regarding [the stream](#the-stream) in english. Firstly to improve my english skills overall and secondly to allow non german speaking people to unterstand what am I doing on stream and in this repository. [The stream](#the-stream) will for the time being not be in english (sorry guys).
 
-Feel free to "pull request" changes, if for typos, my bad english skills, ideas (**PLEASE DO THAT :smiley:**) or other things like suggestions for the stream or this repo. Feel free to add yourself to the [contributors list](#heart-contributors).
+Feel free to **pull request/contribute** changes, if for typos, my bad english skills, ideas (**PLEASE DO THAT :smiley:**) or other things like suggestions for [the stream](#the-stream) or this repo. Feel free to add yourself to the [contributors list](#heart-contributors).
 
 ## "The stream"
 
-I think I have to define what "the stream" means. Over the past 4 1/2 years I've mostly been streaming Rocket League (and will continue to stream it in the future too) **but** this repository and the [todos](#todos) will only be for tech like streams, not for gaming streams.
+I think I have to define what **the stream** means. Over the past 4 1/2 years I've mostly been streaming Rocket League (and will continue to stream it in the future too) **but** this repository and the [todos](#todos) will only be for tech like streams, not for gaming streams.
 
 Most of the streams will be made with my [hackintosh](#computer-hackintosh)
 
@@ -39,8 +39,7 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #001 (2020-02-15) - Twitch bot](stream%20recaps/2020-02-15/README.md)
 - [Stream #002 (2020-02-21) - Running bots in a high availability setup](stream%20recaps/2020-02-21/README.md)
 - [Stream #003 (2020-02-24) - Learning Go #1](stream%20recaps/2020-02-24/README.md)
-- Stream #004 (2020-03-01) - Learning Go #2\
-  *Comming soon - will be a short one*
+- [Stream #004 (2020-03-01) - Learning Go #2](stream%20recaps/2020-03-01/README.md3)
 
 ## :construction: Projects
 
@@ -51,47 +50,53 @@ Projects will be separately documented in the [Projects](projects/) directory if
 ### Potential
 
 - Discord related
-  - **Build a new Discord bot** (curi0sDE_BOT)
   - **curiMans**\
     A six mans like bot specifically for my Discord server
+    **Lang:** Python (for the moment)
 - Twitch related
   - **Twitch plays Rocket League (1v1)**\
-    Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)
+    Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)\
+    **Lang:** Python or maybe Go :eyes:
 
 ### In progress
 
 Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
 
-- **Learning Go** (God damn [@muesli](https://github.com/muesli) :unamused:)
+- **Doing something in Go to actually use the language instead of only learning it**
 
 ### Done
 
 Projects are done if the initial planned features are implemented. A project may or may not move to [in progress](#in-progress) if bigger changes (more than a couple todos) have to be made.
 
-- **Build a new Twitch bot especially for the tech streams** ([Repository](https://github.com/curi0s/twitch-bot))
+- **Build a new Twitch bot especially for the tech streams** ([Repository](https://github.com/curi0s/twitch-bot))\
+  **Lang:** Python
 - **Evaluate ways to run bots e.g. Discord or Twitch in a high availability setup**\
   The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
+- **Learning Go** (God damn [@muesli](https://github.com/muesli) :unamused:) ([Repository](https://github.com/curi0s/learning-go))
 
 ### Denied
 
 Projects in this category have been denied due to different reasons.
 
-Nothing here so far 🤗
+- Discord related
+  - **Build a new Discord bot** (curi0sDE_BOT)\
+    *I refactored my old bot already besides of the stream. It's not actually a thing*
 
 ## Bot commands
 
 These are some informations the bot would usually provide in the chat.
 
-| command   | respond                                       |
+| command     | respond                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
 | !extensions | Remote Containers, Settings Sync, TODO Highlight, GitLens, markdownlint, Prettier, YAML, Todo+, Todo Tree, TODO Highlight |
-| !theme  | [JetJet-Alternate-Gray](https://marketplace.visualstudio.com/items?itemName=JohnyGeorges.jetjet-theme)        |
-| !font   | [Fira Code V2](https://github.com/tonsky/FiraCode)                        |
+| !theme      | [JetJet-Alternate-Gray](https://marketplace.visualstudio.com/items?itemName=JohnyGeorges.jetjet-theme)                    |
+| !font       | [Fira Code V2](https://github.com/tonsky/FiraCode)                                                                        |
 
 ## :heart: Contributors
 
-- Richy
+- [CodeCereal/muesli](https://github.com/muesli)
 - [Tom](https://github.com/tryzerman)
+- Richy
 
 ## :computer: Hackintosh
 
@@ -105,10 +110,11 @@ These are some informations the bot would usually provide in the chat.
 - **M2:** Samsung 970 EVO 500 GB (for Mac OS)
 - **SSD:** Intenso SSD 256GB (for Windows)
 
+* **Monitor:** HP Z38c (3840x1600)\
+  *Half of the desktop is visible in stream*
 * **Keyboard:** Logitech MX Keys
 * **Mouse:** Microsoft Classic Intellimouse
 * **Cam:** Logitech C920
-* **Monitor:** HP Z38c (3840x1600)
 
 ## Useful links
 

@@ -25,4 +25,3 @@ It's simple, a lot about Go so far :smile:
 ## Other stuff
 
 A streamtopic for a future stream could be a discussion about Linux distributions. We were close to start this discussion in this stream already.
-
