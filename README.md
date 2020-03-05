@@ -39,7 +39,9 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #001 (2020-02-15) - Twitch bot](stream%20recaps/2020-02-15/README.md)
 - [Stream #002 (2020-02-21) - Running bots in a high availability setup](stream%20recaps/2020-02-21/README.md)
 - [Stream #003 (2020-02-24) - Learning Go #1](stream%20recaps/2020-02-24/README.md)
-- [Stream #004 (2020-03-01) - Learning Go #2](stream%20recaps/2020-03-01/README.md3)
+- [Stream #004 (2020-03-01) - Learning Go #2](stream%20recaps/2020-03-01/README.md)
+- Stream #005 (2020-03-05) - Building simple Twitch Bot with Go\
+  *Coming soon*
 
 ## :construction: Projects
 
@@ -62,7 +64,8 @@ Projects will be separately documented in the [Projects](projects/) directory if
 
 Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
 
-- **Doing something in Go to actually use the language instead of only learning it**
+- **Doing something in Go to actually use the language instead of only learning it**\
+  It's a simple multithreaded Twitch bot with events
 
 ### Done
 
