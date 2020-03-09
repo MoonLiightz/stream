@@ -53,7 +53,7 @@ Projects will be separately documented in the [Projects](projects/) directory if
 
 - Discord related
   - **curiMans**\
-    A six mans like bot specifically for my Discord server
+    A six mans like bot specifically for my Discord server\
     **Lang:** Python (for the moment)
 - Twitch related
   - **Twitch plays Rocket League (1v1)**\
