@@ -40,10 +40,8 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #002 (2020-02-21) - Running bots in a high availability setup](stream%20recaps/2020-02-21/README.md)
 - [Stream #003 (2020-02-24) - Learning Go #1](stream%20recaps/2020-02-24/README.md)
 - [Stream #004 (2020-03-01) - Learning Go #2](stream%20recaps/2020-03-01/README.md)
-- Stream #005 (2020-03-05) - Building simple Twitch Bot with Go\
-  *Coming soon*
-- Stream #006 (2020-03-08) - Turning the *simple Twitch* into a lib\
-  *Coming soon*
+- [Stream #005 (2020-03-05) - Build simple Twitch bot with Go](stream%20recaps/2020-03-05/README.md)
+- [Stream #006 (2020-03-08) - Turning the *simple Twitch bot* into a lib](stream%20recaps/2020-03-08/README.md)
 
 ## :construction: Projects
 
