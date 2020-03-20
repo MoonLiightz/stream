@@ -41,8 +41,9 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #003 (2020-02-24) - Learning Go #1](stream%20recaps/2020-02-24/README.md)
 - [Stream #004 (2020-03-01) - Learning Go #2](stream%20recaps/2020-03-01/README.md)
 - [Stream #005 (2020-03-05) - Build simple Twitch bot with Go](stream%20recaps/2020-03-05/README.md)
-- [Stream #006 (2020-03-08) - Turning the *simple Twitch bot* into a lib](stream%20recaps/2020-03-08/README.md)
+- [Stream #006 (2020-03-08) - Turning the _simple Twitch bot_ into a lib](stream%20recaps/2020-03-08/README.md)
 - [Stream #007 (2020-03-11) - Finalizing Twitch lib](stream%20recaps/2020-03-11/README.md)
+- [Stream #008 (2020-03-17) - Arch Linux on old hardware](stream%20reacps/2020-03-17/README.md)
 
 ## :construction: Projects
 
@@ -54,29 +55,30 @@ Projects will be separately documented in the [Projects](projects/) directory if
 
 - Discord related
   - **curiMans**\
-    A six mans like bot specifically for my Discord server\
-    **Lang:** Python (for the moment)
+        A six mans like bot specifically for my Discord server\
+        **Lang:** Python (for the moment)
 - Twitch related
   - **Twitch plays Rocket League (1v1)**\
-    Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)\
-    **Lang:** Python or maybe Go :eyes:
+        Every viewer who wants to control a car has to choose a team, either blue or orange. After doing this, commands like !back, !fw (forward), !fleft (forward left), ... are available and the car will execute the commands (should be queued)\
+        **Lang:** Python or maybe Go :eyes:
 
 ### In progress
 
 Projects will be in this category if we started to work on them (again). This could be the case if either we couldn't finish it in one stream, add new features or want to make bigger changes to it.
 
 - **Doing something in Go to actually use the language instead of only learning it**\
-  It's a simple multithreaded Twitch bot with events which slowly evolving into a lib
+    It's a simple multithreaded Twitch bot with events which slowly evolving into a lib
 
 ### Done
 
 Projects are done if the initial planned features are implemented. A project may or may not move to [in progress](#in-progress) if bigger changes (more than a couple todos) have to be made.
 
 - **Build a new Twitch bot especially for the tech streams** ([Repository](https://github.com/curi0s/twitch-bot))\
-  **Lang:** Python
+    **Lang:** Python
 - **Evaluate ways to run bots e.g. Discord or Twitch in a high availability setup**\
-  The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
+    The problem is that you can not simply start the bot multiple times/multiple instances because on every command a user executes, each bot would react to this and for example responds with a message to the user
 - **Learning Go** (God damn [@muesli](https://github.com/muesli) :unamused:) ([Repository](https://github.com/curi0s/learning-go))
+- [**Arch Linux on old hardware**](stream%20reacps/2020-03-17/README.md)
 
 ### Denied
 
@@ -84,7 +86,7 @@ Projects in this category have been denied due to different reasons.
 
 - Discord related
   - **Build a new Discord bot** (curi0sDE_BOT)\
-    *I refactored my old bot already besides of the stream. It's not actually a thing*
+        _I refactored my old bot already besides of the stream. It's not actually a thing_
 
 ## Bot commands
 
@@ -115,7 +117,7 @@ These are some informations the bot would usually provide in the chat.
 - **SSD:** Intenso SSD 256GB (for Windows)
 
 * **Monitor:** HP Z38c (3840x1600)\
-  *Half of the desktop is visible in stream*
+  _Half of the desktop is visible in stream_
 * **Keyboard:** Logitech MX Keys
 * **Mouse:** Microsoft Classic Intellimouse
 * **Cam:** Logitech C920
