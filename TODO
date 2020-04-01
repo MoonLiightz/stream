@@ -15,7 +15,7 @@ Stream:
         Chatty does not provide a package with a bundle JRE/JDK
             * Either search for another tool thats like Chatty
             * JRE/JDK as portable version to execute just Chatty
-    ☐ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30)
+    ✘ Have a look at (potentially) existing logs regarding the crashes of OBS @created(20-02-17 21:30) @cancelled(20-04-01 10:01)
         Found something in the system log which points to browser sources.
         I really think this could be the problem but we had no freeze or crash in the stream of 2020-02-21 while not using the tv as an additional monitor
     ✔ Setup OBS @created(20-02-15 00:19) @done(20-02-15 14:56)
