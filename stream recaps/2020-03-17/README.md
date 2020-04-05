@@ -1,4 +1,4 @@
-# Stream #009 (2020-03-17)
+# Stream #008 (2020-03-17)
 
 **Main topic:** Arch Linux on old hardware
 
