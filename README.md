@@ -43,7 +43,7 @@ I _try_ to cover the following list of topics in each recap.
 - [Stream #005 (2020-03-05) - Build simple Twitch bot with Go](stream%20recaps/2020-03-05/README.md)
 - [Stream #006 (2020-03-08) - Turning the _simple Twitch bot_ into a lib](stream%20recaps/2020-03-08/README.md)
 - [Stream #007 (2020-03-11) - Finalizing Twitch lib](stream%20recaps/2020-03-11/README.md)
-- [Stream #008 (2020-03-17) - Arch Linux on old hardware](stream%20reacps/2020-03-17/README.md)
+- [Stream #008 (2020-03-17) - Arch Linux on old hardware](stream%20recaps/2020-03-17/README.md)
 - [Stream #009 (2020-03-28) - Enhancing Twirgo](stream%20recaps/2020-03-28/README.md)
 
 ## :construction: Projects
@@ -104,6 +104,7 @@ These are some informations the bot would usually provide in the chat.
 - [CodeCereal/muesli](https://github.com/muesli)
 - [Tom](https://github.com/tryzerman)
 - Richy
+- [MoonLiightz](https://github.com/MoonLiightz)
 
 ## :computer: Named _techy_
 
